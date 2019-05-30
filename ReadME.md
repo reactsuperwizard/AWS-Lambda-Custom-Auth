@@ -1,8 +1,4 @@
-===Contact====
-marceloscharan@gmail.com
-scharan_5
-
-================Description=============
+##Description##
 
 So... The project description changed a bit since the time I posted... I think is a bit easier... I would like to go over with you the details... is that ok?
 
@@ -37,12 +33,14 @@ please use the dev-boto3-s3-list-bucket API to do your tests
 
 Awesome. Let me know if you have any questions... by the way you have full privileges with Cognito and API Gateway... Cognito we are only using 1 pool... your user was the last one added and is the only one with all the attributes filled ok?
 
-==========AWS Server Info========
-
+##AWS Server Info##
 
 https://848149494964.signin.aws.amazon.com/console
 user: hong
 pass: Internet123#
 
 
+##Contact##
+marceloscharan@gmail.com
+scharan_5
 
